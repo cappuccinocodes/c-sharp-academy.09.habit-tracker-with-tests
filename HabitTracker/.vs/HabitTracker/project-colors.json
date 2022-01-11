@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7fa3db1-f088-48cb-b006-8bd14bc50cd9": {
+      "ProjectGuid": "d7fa3db1-f088-48cb-b006-8bd14bc50cd9",
+      "DisplayName": "HabitTracker",
+      "ColorIndex": 0
+    },
+    "0de0d5c4-a393-4e61-8e31-242f1b0ccd5a": {
+      "ProjectGuid": "0de0d5c4-a393-4e61-8e31-242f1b0ccd5a",
+      "DisplayName": "HabitTrackerTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
